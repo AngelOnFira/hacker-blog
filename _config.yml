@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: flag{}
+description: "Events and ideas"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Forest Anderson"
+  email: "forestkzanderson@gmail.com"
+  url: "https://forest-anderson.ca/blog"
 
 baseurl: /
 
@@ -28,5 +28,7 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2018"
+owner : "Forest Anderson"
+year : "2019"
+
+google_analytics: G-98YX4BLGXR
